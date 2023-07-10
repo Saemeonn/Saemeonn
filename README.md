@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 👨‍💻Portfolio [https://saemeonn.github.io/](https://saemeonn.github.io/)
+- 👨‍💻Portfolio [https://saemeonn.github.io/](https://saemeonn.github.io)
 
 - 💬 Ask me about **HTML | CSS | Javascript | React | Chakra UI**
 
