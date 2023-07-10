@@ -7,7 +7,7 @@
 
 - 👨‍💻Portfolio [https://saemeonn.github.io/](https://saemeonn.github.io/)
 
-- 💬 Ask me about **HTML|CSS|Javascript|React|Chakra UI**
+- 💬 Ask me about **HTML | CSS | Javascript | React | Chakra UI**
 
 - 📫 How to reach me **saemephanbuh@gmail.com**
 
